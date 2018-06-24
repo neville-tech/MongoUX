@@ -20,5 +20,8 @@
     "koa": "^2.5.1",
     "koa-router": "^7.4.0",
     "mongodb": "^3.0.10"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
   }
 }
