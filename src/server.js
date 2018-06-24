@@ -1,7 +1,10 @@
 'use strict'
 
-import koa from 'koa';
+const koa = require('koa');
+const router = require('./router');
 
 const app = new koa();
 
-export default app;
+app.use(router.routes());
+
+module.exports = app;
