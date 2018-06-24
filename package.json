@@ -18,6 +18,7 @@
   "homepage": "https://github.com/neville-tech/MongoUX#readme",
   "dependencies": {
     "koa": "^2.5.1",
-    "koa-router": "^7.4.0"
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.0.10"
   }
 }
