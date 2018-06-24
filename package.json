@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/neville-tech/MongoUX/issues"
   },
-  "homepage": "https://github.com/neville-tech/MongoUX#readme"
+  "homepage": "https://github.com/neville-tech/MongoUX#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
 }
